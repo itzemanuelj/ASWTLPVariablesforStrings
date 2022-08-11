@@ -18,3 +18,17 @@ variable_name = "Emanuel"
 my_name = "Mark"
 print(my_name)
 # Assign a string to a variable. You choose the variable name and the string. Using the variable, write a statement that displays the string on the screen.
+randomVar = "Hi There"
+print(randomVar)
+# Revise this variable name as the Python governing body recommends.
+# countryoforigin
+conuntry_of_origin = "USA"
+# Assign the string "Hi" to the variable greeting
+greeting = "Hi"
+# Assign a string of your choice to a variable of your choice. On line 2, tell Python to display the string, using the variable.
+book = "ASWTLP"
+print(book)
+# Assign your first name to a variable. On line 2, tell Python to display your first name using that variable.
+town = "Detroit"
+print(town)
+
